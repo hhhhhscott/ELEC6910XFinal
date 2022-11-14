@@ -12,4 +12,4 @@ python preprocess.py
 python plot.py
 ```
 
-
+#### Time overhead: less than 3 hours with one NVIDIA A40 to fully reproduce the result.
